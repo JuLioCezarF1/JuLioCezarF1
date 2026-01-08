@@ -1,7 +1,7 @@
 # 👨‍💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=23432&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+JULIO+CEZAR)](https://git.io/typing-svg) 
 **`Desenvolvedor Python Back-and`**
 
-Me chamo Júlio Cézar, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Javascript e Python, para saber mais entra em contato comigo atraves do meu email, juliocezarctt@gmail.com
+Me chamo Júlio Cézar, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento em aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Javascript e Python, para saber mais entra em contato comigo atraves do meu email: juliocezarctt@gmail.com
 
 <p align="left">
     <a href="https://github.com/JuLioCezarF1tab=repositories&sort=stargazers">
