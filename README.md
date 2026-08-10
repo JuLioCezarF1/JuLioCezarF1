@@ -4,18 +4,18 @@
 Me chamo Júlio Cézar, tenho 20 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento em aulas com alunos do 1º e 2º período através de aulas sobre lógica de programação com Javascript e Python, para saber mais entra em contato comigo atraves do meu email: juliocezarctt@gmail.com
 
 <p align="left">
-    <a href="https://github.com/JuLioCezarF1tab=repositories&sort=stargazers">
+    <a href="https://github.com/juliofilho149tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/JuLioCezarF1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/juliofilho149?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/JuLioCezarF1?tab=followers">
+    <a href="https://github.com/juliofilho149?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/JuLioCezarF1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/juliofilho149?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -77,18 +77,18 @@ Me chamo Júlio Cézar, tenho 20 anos e sou natural de Pernambuco. Atualmente, e
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=JuLioCezarF1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=150" 
+    src="https://github-readme-stats.vercel.app/api?username=juliofilho149&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=150" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuLioCezarF1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilho149&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 
 
-[![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=JuLioCezarF1&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=juliofilho149&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
