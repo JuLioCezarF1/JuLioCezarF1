@@ -71,24 +71,6 @@ Me chamo Júlio Cézar, tenho 20 anos e sou natural de Pernambuco. Atualmente, e
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=juliofilho149&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&width=150" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilho149&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-
 [![Ashutosh's Gráfico de Commit's](https://github-readme-activity-graph.vercel.app/graph?username=juliofilho149&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
